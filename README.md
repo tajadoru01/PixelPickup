@@ -36,11 +36,15 @@ PixelPickup is an AI-powered return assessment system that streamlines the produ
 ### Installation & Setup
 
 1. Clone the repository
-2. Install dependencies
-3. Set up API keys for Google Gemini API and OpenRouteService in a .env file
+2. Install requirements:
+
+   pip install -r requirements.txt
+4. Set up API keys for Google Gemini API and OpenRouteService in a .env file
      - GEMINI_API_KEY=your_api_key_here
      - OPENROUTESERVICE_API_KEY=your_api_key_here
-4. Start application
+5. Start application by running:
+
+   voila pixelpickup.ipynb
    
 ### Usage
 - Upload an image of the product you want to return.
