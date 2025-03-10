@@ -1,0 +1,11 @@
+requests
+pillow
+ipywidgets
+ipython
+jupyter
+voila
+geopy
+folium
+openrouteservice
+python-dotenv
+google-generativeai
