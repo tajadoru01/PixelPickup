@@ -1,5 +1,5 @@
 ﻿# PixelPickup - AI-Powered Return Assessment System
-## Team Mingjd - Hack the Future (Top 12 Finalist)
+## Team Mingjd - Google x Hack the Future (Top 12 Finalist)
 
 ### Overview
 
